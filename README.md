@@ -13,7 +13,7 @@
    ```
 
 ## local directory binding
-> there are 3 sub-directories mounted to docker for conveniance. each of them is intended for..
+> there are 3 sub-directories mounted to docker for convenience. each of them is intended for..
 - work : repository for .ipynb files
 - tf_logs : data exported from tensorflow (e.g. models, logs, etc.)
 - data : sample data for training of your own
