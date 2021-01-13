@@ -19,7 +19,7 @@
 - data : sample data for training of your own
 
 ## modules included
-* python2
+* python2.7
 * Tensorflow (1.15 non-GPU)
 * pandas 
 * numpy 
