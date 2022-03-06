@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/tf_logs/frz_mnist_dnn.ckpt"
+all_model_checkpoint_paths: "/home/tf_logs/frz_mnist_dnn.ckpt"
